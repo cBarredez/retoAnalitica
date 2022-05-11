@@ -1,0 +1,8 @@
+Leer instruccioneS:
+Para ejecutar importe el archivo ipynb con el nombre Twitts_covid a su ambiente en Anaconda.
+Importe el archivo covid19_tweets de la misma manera en su ambiente en Anaconda
+Importe las librerias necesarias
+matplotlib
+pandas
+seaborn
+ejecutras las lineas.
